@@ -1,4 +1,4 @@
-# EvalBench — AI Response Evaluation & Quality Assessment Platform
+# EvalBench — Quality Assurance & Data Annotation Platform
 
 EvalBench is an enterprise-grade AI model evaluation and data annotation workbench built with **React, TypeScript, Vite, Tailwind CSS, and Recharts**. It simulates internal RLHF evaluation and data quality assurance workflows used by AI research and data operations teams.
 

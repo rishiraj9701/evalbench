@@ -68,7 +68,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
             {!collapsed && (
               <div className="flex flex-col">
                 <span className="font-bold text-[#F1F5F3] tracking-tight text-sm leading-tight">EvalBench</span>
-                <span className="text-[10px] text-[#7F9691] font-mono uppercase tracking-wider">AI Quality OS</span>
+                <span className="text-[10px] text-[#7F9691] font-mono tracking-wider">QA & Data Annotation</span>
               </div>
             )}
           </div>
